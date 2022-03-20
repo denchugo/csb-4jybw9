@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://denchugo.github.io/csb-4jybw9/static/css/main.cc2c155d.chunk.css",
+    "main.js": "https://denchugo.github.io/csb-4jybw9/static/js/main.36a152b7.chunk.js",
+    "main.js.map": "https://denchugo.github.io/csb-4jybw9/static/js/main.36a152b7.chunk.js.map",
+    "runtime-main.js": "https://denchugo.github.io/csb-4jybw9/static/js/runtime-main.2acb6f9d.js",
+    "runtime-main.js.map": "https://denchugo.github.io/csb-4jybw9/static/js/runtime-main.2acb6f9d.js.map",
+    "static/js/2.23b9b49b.chunk.js": "https://denchugo.github.io/csb-4jybw9/static/js/2.23b9b49b.chunk.js",
+    "static/js/2.23b9b49b.chunk.js.map": "https://denchugo.github.io/csb-4jybw9/static/js/2.23b9b49b.chunk.js.map",
+    "index.html": "https://denchugo.github.io/csb-4jybw9/index.html",
+    "static/css/main.cc2c155d.chunk.css.map": "https://denchugo.github.io/csb-4jybw9/static/css/main.cc2c155d.chunk.css.map",
+    "static/js/2.23b9b49b.chunk.js.LICENSE.txt": "https://denchugo.github.io/csb-4jybw9/static/js/2.23b9b49b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2acb6f9d.js",
+    "static/js/2.23b9b49b.chunk.js",
+    "static/css/main.cc2c155d.chunk.css",
+    "static/js/main.36a152b7.chunk.js"
+  ]
+}
